@@ -1,5 +1,5 @@
 # chainflip-feedhandler-rs
-A feedhandler which comunicates with a chainflip node and monitors price updates and builds order books for multiple pools on a schedule.
+A feedhandler which communicates with a chainflip node (REST and websocket), monitors price updates and builds order books for multiple pools on a schedule / price change.
 
 ## Usage
 Run a testnet node via instructions here: https://github.com/chainflip-io/chainflip-perseverance  
